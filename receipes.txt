@@ -5,3 +5,6 @@ receipes:-
 kheer
 pizza
 
+beans 
+kheer
+
