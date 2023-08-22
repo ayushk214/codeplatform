@@ -8,3 +8,9 @@ pizza
 beans 
 kheer
 
+non veg food
+
+chicken 
+mutton 
+fish
+
